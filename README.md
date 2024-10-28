@@ -48,6 +48,7 @@ Para cambiar el número, color o tamaño de las partículas, abre el archivo `ap
 ```
 
 ## 🖼️ Captura de Pantalla
+![https://github.com/Alfonso20005/CrearParticulas](imagenes/imagenFondo.JPG)
 
 ## 🙏 Créditos
 - Proyecto original basado en `particles.js`.
